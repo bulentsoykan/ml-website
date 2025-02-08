@@ -1,0 +1,8 @@
+---
+title: "Penguin Website"
+format: html
+---
+
+Welcome to the Penguin Website!
+
+- [View the Penguin Weight Prediction Model](model.html)

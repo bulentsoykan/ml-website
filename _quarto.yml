@@ -1,0 +1,12 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Penguin Website"
+  navbar:
+    left:
+      - href: index.html
+        text: Home
+      - href: model.html
+        text: Model
